@@ -2,9 +2,10 @@
 
 ## Lista dados dos paises
 
+* País
 * Capital
 * Moeda
-* Idioma
+* Idiomas
 * População
 * Codigo de Area
 * Fronteiras.

@@ -1,3 +1,5 @@
+#  pip install countryinfo
+
 from countryinfo import CountryInfo
 
 country =  CountryInfo(input('Digite o nome do país: '))
